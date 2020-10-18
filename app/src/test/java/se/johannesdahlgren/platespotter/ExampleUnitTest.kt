@@ -1,4 +1,4 @@
-package se.johannes.dahlgren.platespotter
+package se.johannesdahlgren.platespotter
 
 import org.junit.Test
 

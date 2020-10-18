@@ -1,4 +1,4 @@
-package se.johannes.dahlgren.platespotter
+package se.johannesdahlgren.platespotter
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
